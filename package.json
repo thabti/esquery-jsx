@@ -1,9 +1,9 @@
 {
-  "name": "esquery",
+  "name": "esquery-jsx",
   "preferGlobal": false,
   "version": "1.0.0",
   "author": "Joel Feenstra <jrfeenst+esquery@gmail.com>",
-  "description": "A query library for ECMAScript AST using a CSS selector like query language.",
+  "description": "A query library for ECMAScript AST using a CSS selector like query language. With Support for JSX.",
   "main": "esquery.js",
   "files": [
     "esquery_init.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jrfeenst/esquery.git"
+    "url": "https://github.com/sabeurthabti/esquery-jsx.git"
   },
   "keywords": [
     "ast",
